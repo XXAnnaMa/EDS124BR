@@ -8,3 +8,6 @@ https://www.youtube.com/watch?v=bUH8gBKfgIU
 
 Quest Section(wk2):
 https://youtu.be/f31F3mNdZKk
+
+Nested Repeat(wk3):
+https://www.youtube.com/watch?v=F8hcdjMp1pE
