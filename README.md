@@ -15,3 +15,6 @@ https://www.youtube.com/watch?v=F8hcdjMp1pE
 Monkey Catches Banana Program(wk3):
 https://www.youtube.com/watch?v=mFj0k_0UV4w
 
+Explain A Program: Draw 3 Shapes(wk4):
+https://www.youtube.com/watch?v=tQ9J5N-ULcM
+
