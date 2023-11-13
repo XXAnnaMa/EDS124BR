@@ -21,3 +21,6 @@ https://www.youtube.com/watch?v=tQ9J5N-ULcM
 Football Simulator(wk5):
 https://www.youtube.com/watch?v=iBAHpMy3P2A
 
+If-else Loop Program Practice(wk6):
+https://www.youtube.com/watch?v=FgbrIPe6e64
+
