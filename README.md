@@ -24,3 +24,6 @@ https://www.youtube.com/watch?v=iBAHpMy3P2A
 If-else Loop Program Practice(wk6):
 https://www.youtube.com/watch?v=FgbrIPe6e64
 
+Nested If-else Loop Program Practice(wk7):
+https://www.youtube.com/watch?v=zMrYdHq1_1c
+
