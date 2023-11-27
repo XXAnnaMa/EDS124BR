@@ -27,3 +27,6 @@ https://www.youtube.com/watch?v=FgbrIPe6e64
 Nested If-else Loop Program Practice(wk7):
 https://www.youtube.com/watch?v=zMrYdHq1_1c
 
+Compound Conditional Program Practice(wk8):
+https://www.youtube.com/watch?v=OMPwa9Pz4qI
+
