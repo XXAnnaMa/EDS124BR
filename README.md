@@ -30,3 +30,7 @@ https://www.youtube.com/watch?v=zMrYdHq1_1c
 Compound Conditional Program Practice(wk8):
 https://www.youtube.com/watch?v=OMPwa9Pz4qI
 
+Paint A Picture(wk9):
+https://www.youtube.com/watch?v=g3f19iVqu5E
+
+
